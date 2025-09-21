@@ -1,0 +1,77 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "A person coding on a laptop.",
+      "imageUrl": "https://picsum.photos/seed/career1/600/400",
+      "imageHint": "coding laptop"
+    },
+    {
+      "id": "2",
+      "description": "A designer sketching on a tablet.",
+      "imageUrl": "https://picsum.photos/seed/career2/600/400",
+      "imageHint": "designer sketch"
+    },
+    {
+      "id": "3",
+      "description": "A person analyzing data on multiple monitors.",
+      "imageUrl": "https://picsum.photos/seed/career3/600/400",
+      "imageHint": "data analysis"
+    },
+    {
+      "id": "4",
+      "description": "A person leading a meeting in a conference room.",
+      "imageUrl": "https://picsum.photos/seed/career4/600/400",
+      "imageHint": "business meeting"
+    },
+    {
+      "id": "5",
+      "description": "Hero image for the landing page, showing a path.",
+      "imageUrl": "https://picsum.photos/seed/hero/1200/800",
+      "imageHint": "career path"
+    },
+    {
+      "id": "6",
+      "description": "User avatar placeholder",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "7",
+      "description": "A cybersecurity expert analyzing network traffic.",
+      "imageUrl": "https://picsum.photos/seed/career7/600/400",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "8",
+      "description": "An abstract representation of a neural network.",
+      "imageUrl": "https://picsum.photos/seed/career8/600/400",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "9",
+      "description": "A tablet displaying social media analytics.",
+      "imageUrl": "https://picsum.photos/seed/career9/600/400",
+      "imageHint": "digital marketing"
+    },
+    {
+      "id": "10",
+      "description": "A graphic designer's desk with a tablet and color swatches.",
+      "imageUrl": "https://picsum.photos/seed/career10/600/400",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "11",
+      "description": "Server racks in a data center.",
+      "imageUrl": "https://picsum.photos/seed/career11/600/400",
+      "imageHint": "server infrastructure"
+    },
+    {
+      "id": "12",
+      "description": "A person giving a presentation with marketing charts.",
+      "imageUrl": "https://picsum.photos/seed/career12/600/400",
+      "imageHint": "marketing presentation"
+    }
+  ]
+}
